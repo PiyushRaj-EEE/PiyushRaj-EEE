@@ -109,17 +109,28 @@ An engineering project focused on understanding and simulating electric vehicle 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PiyushRaj-EEE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics">
+<a href="https://github.com/PiyushRaj-EEE">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PiyushRaj-EEE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Piyush Raj GitHub Stats">
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushRaj-EEE&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+<a href="https://github.com/PiyushRaj-EEE">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushRaj-EEE&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages">
+</a>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=PiyushRaj-EEE&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
+<a href="https://github.com/PiyushRaj-EEE">
+  <img src="https://streak-stats.demolab.com/?user=PiyushRaj-EEE&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
+</a>
+
+<br>
+
+<a href="https://github.com/PiyushRaj-EEE/EV-Powertrain-Simulator">
+  <img src="https://img.shields.io/badge/Featured%20Project-EV%20Powertrain%20Simulator-00B8D9?style=for-the-badge&logo=github&logoColor=white" alt="EV Powertrain Simulator">
+</a>
 
 </div>
 
----
 
 ## 🎯 Current Focus
 
