@@ -1,7 +1,9 @@
 <!-- =============== HEADER =============== -->
 <div align="center">
-  <img src="./github-banner.png" alt="Piyush Raj — Electrical and Electronics Engineering, EV Systems, BMS, Power Electronics and Robotics" width="100%">
+  <img src="https://raw.githubusercontent.com/PiyushRaj-EEE/PiyushRaj-EEE/main/ME.png" alt="Piyush Raj | Electrical & Electronics Engineering" width="100%">
 </div>
+
+<br>
 
 ---
 
