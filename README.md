@@ -1,6 +1,9 @@
 <!-- =============== HEADER =============== -->
-
 <div align="center">
+  <img src="./github-banner.png" alt="Piyush Raj — Electrical and Electronics Engineering, EV Systems, BMS, Power Electronics and Robotics" width="100%">
+</div>
+
+---
 
 # ⚡ PIYUSH RAJ
 
@@ -137,8 +140,6 @@ I'm interested in learning from other engineers, collaborating on meaningful pro
 
 **Engineering • Experimenting • Learning • Building**
 
-<div align="center">
-  <img src="./github-banner.png" alt="Piyush Raj — Electrical and Electronics Engineering, EV Systems, BMS, Power Electronics and Robotics" width="100%">
 </div>
 
 ---
